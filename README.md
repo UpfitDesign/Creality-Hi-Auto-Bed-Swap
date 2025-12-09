@@ -8,5 +8,8 @@ Assembly video can be found here:
 
 [Youtube video](https://youtu.be/ULCnG5hj6SM)
 
-<iframe id=”player” type=”text/html” width=”640″ height=”390″ src=”https://youtu.be/ULCnG5hj6SM” frameborder=”0″></iframe>
+FB group
 
+[Creality Hi auto bed swap mod](https://www.facebook.com/groups/1144499950961692)
+
+Upfit Design Ltd

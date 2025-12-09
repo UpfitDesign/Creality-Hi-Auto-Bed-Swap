@@ -4,12 +4,8 @@ In this repo you will find instructions how to add custom gcode for automatic be
 
 ![alt text](/pictures/IMG_20251209_095944.jpg)
 
-Assembly video can be found here:
+Assembly video can be found here: [Youtube video](https://youtu.be/ULCnG5hj6SM)
 
-[Youtube video](https://youtu.be/ULCnG5hj6SM)
-
-FB group
-
-[Creality Hi auto bed swap mod](https://www.facebook.com/groups/1144499950961692)
+FB group: [Creality Hi auto bed swap mod](https://www.facebook.com/groups/1144499950961692)
 
 Upfit Design Ltd

@@ -1,6 +1,6 @@
 # Creality-Hi-Auto-Bed-Swap
 
-In this repo you will find instructions how to add custom gcode for automatic bed loading for Auto Bed Swap System.
+In this repo you will find instructions how to make an automatic bed plate loading system for Creality Hi 3d printer.
 
 ![alt text](/pictures/IMG_20251209_095944.jpg)
 

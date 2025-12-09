@@ -6,6 +6,8 @@ In this repo you will find instructions how to make an automatic bed plate loadi
 
 Assembly video can be found here: [Youtube video](https://youtu.be/ULCnG5hj6SM)
 
+Wiki: [Official Wiki Page](https://github.com/UpfitDesign/Creality-Hi-Auto-Bed-Swap/wiki)
+
 FB group: [Creality Hi auto bed swap mod](https://www.facebook.com/groups/1144499950961692)
 
 Upfit Design Ltd

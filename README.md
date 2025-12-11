@@ -13,7 +13,7 @@ FB group: [Creality Hi auto bed swap mod](https://www.facebook.com/groups/114449
 If you would like to help recover some costs please use this link to payment link. Sugested tip is £20, but anything will work! Lets build better 3d printers. I also offer hardware kits needed to build this system. You can shop your own stuff or buy it directly from me. More info in WiKi.
 
 [SumUp payment link](https://pay.sumup.com/b2c/QNTAOLPP)  
-<br/><img width="646" height="656" alt="image" src="https://github.com/user-attachments/assets/2f67ead8-05cd-4a16-bf5b-e1706fdb4ead" /><br/>
+<br/><img width="300" alt="image" src="https://github.com/user-attachments/assets/2f67ead8-05cd-4a16-bf5b-e1706fdb4ead" /><br/>
 
 
 Upfit Design Ltd

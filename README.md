@@ -16,6 +16,4 @@ If you would like to help recover some costs please use this link to payment lin
 |[SumUp payment link](https://pay.sumup.com/b2c/QNTAOLPP)|
 | --- |
 |<img width="300" alt="image" src="https://github.com/user-attachments/assets/2f67ead8-05cd-4a16-bf5b-e1706fdb4ead" />|
-
-
-Upfit Design Ltd
+|2025 Upfit Design Ltd|

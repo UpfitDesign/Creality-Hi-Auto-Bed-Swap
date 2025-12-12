@@ -11,7 +11,8 @@ Wiki: [Official Wiki Page](https://github.com/UpfitDesign/Creality-Hi-Auto-Bed-S
 
 FB group: [Creality Hi auto bed swap mod](https://www.facebook.com/groups/1144499950961692)
 
-If you would like to help recover some costs please use this link to payment link. Sugested tip is £20, but anything will work! Lets build better 3d printers. I also offer hardware kits needed to build this system. You can shop your own stuff or buy it directly from me. More info in WiKi.
+Thank you for your support! If you'd like to help cover some of the development costs and support future improvements, you can contribute using this payment link. A suggested tip is £20, but any amount is greatly appreciated! Together, we're building better 3D printers.  
+I also offer complete hardware kits to build this system. You can source parts yourself or purchase a ready-to-go kit directly from me. Full details, BOM, and instructions are available in the Wiki.
 
 |[SumUp payment link](https://pay.sumup.com/b2c/QNTAOLPP)|
 | :---: |
